@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+h1,
+p {
+    width: 500px;
+    color: white;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+body {
+    background: black url(http://old.code.mu/exercises/css/osnovy-raboty-s-fonom-cherez-css-dlya-novichkov/5/space.jpg)no-repeat left top;
+    background-image: url(http://old.code.mu/exercises/css/osnovy-raboty-s-fonom-cherez-css-dlya-novichkov/5/space.jpg);
+}
